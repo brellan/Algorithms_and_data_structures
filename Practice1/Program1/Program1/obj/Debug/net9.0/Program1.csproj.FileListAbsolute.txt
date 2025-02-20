@@ -1,0 +1,15 @@
+C:\typed\algorithms\Practice1\Program1\Program1\bin\Debug\net9.0\Program1.exe
+C:\typed\algorithms\Practice1\Program1\Program1\bin\Debug\net9.0\Program1.deps.json
+C:\typed\algorithms\Practice1\Program1\Program1\bin\Debug\net9.0\Program1.runtimeconfig.json
+C:\typed\algorithms\Practice1\Program1\Program1\bin\Debug\net9.0\Program1.dll
+C:\typed\algorithms\Practice1\Program1\Program1\bin\Debug\net9.0\Program1.pdb
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\Program1.AssemblyInfoInputs.cache
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\Program1.AssemblyInfo.cs
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\Program1.csproj.CoreCompileInputs.cache
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\Program1.sourcelink.json
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\Program1.dll
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\refint\Program1.dll
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\Program1.pdb
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\Program1.genruntimeconfig.cache
+C:\typed\algorithms\Practice1\Program1\Program1\obj\Debug\net9.0\ref\Program1.dll
